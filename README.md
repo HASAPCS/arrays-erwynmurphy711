@@ -1,3 +1,4 @@
+[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=12980151&assignment_repo_type=AssignmentRepo)
 ## Java Array Operations Assignment
 
 Welcome to the Java Array Operations Assignment! This assignment focuses on practicing array manipulations in Java. You will be working on various tasks involving arrays, such as initializing arrays, finding maximum values, and sorting. Each exercise is guided by TODO comments in the code.
